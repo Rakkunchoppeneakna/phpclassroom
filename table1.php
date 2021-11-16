@@ -7,7 +7,7 @@
       for($i=0;$i<$row;$i++){
         echo "<tr>";
         echo "<td>hey!<td>";
-        echo "<tr>";
+        echo "</tr>";
       }
       ?>
     </table>
