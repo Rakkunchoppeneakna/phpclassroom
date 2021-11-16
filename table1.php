@@ -11,6 +11,5 @@
       }
       ?>
     </table>
-    </select>
   </body>
 </html>
