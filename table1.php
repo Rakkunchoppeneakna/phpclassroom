@@ -6,7 +6,7 @@
       $row = 5;
       for($i=0;$i<$row;$i++){
         echo "<tr>";
-        echo "<td>hey!<td>";
+        echo "<td>hey!</td>";
         echo "</tr>";
       }
       ?>
